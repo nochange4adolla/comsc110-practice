@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "My Name is Dolla and I love music!" << endl;
+    cout << "My Name is Dolla and I hope to be president of the United states one day!" << endl;
     return 0;
 }
